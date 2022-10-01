@@ -1,0 +1,19 @@
+.carousel{
+    margin-left: 170px;
+   
+    width: 75%;
+
+    }
+
+    .left-rating {
+        width: 50%;
+    }
+    .students{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        margin: 20px;
+    }
+    .fa-star.filled{
+color: 
+#FFC014;
+}
